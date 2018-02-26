@@ -22,7 +22,7 @@ display.setDefault ("background", 255/255, 192/255, 192/255)
 local textObject
 
 -- create the text object at position (300, 500) with a size 50
-textObject = display.newText ("Hello Maria", 100, 130, nil, 50)
+textObject = display.newText ("Hello Maria!!", 100, 130, nil, 50)
 
 -- anchor the textObject from the top left corner
 textObject.anchorX= 0
